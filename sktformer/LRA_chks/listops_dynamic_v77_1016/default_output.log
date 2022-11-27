@@ -1,0 +1,8 @@
+{"accu_test": 0.376, "best_accu_test": 0.376, "component_test": "test", "loss_test": 1.7189, "t_test": 0.5739, "train_step_idx": 29999}
+{"accu_test": 0.376, "best_accu_test": 0.376, "component_test": "test", "loss_test": 1.7189, "t_test": 0.619, "train_step_idx": 29999}
+{"accu_test": 0.1026, "best_accu_test": 0.1026, "component_test": "test", "loss_test": 2.3011, "t_test": 0.4706, "train_step_idx": 2999}
+{"accu_test": 0.3219, "best_accu_test": 0.3219, "component_test": "test", "loss_test": 1.9633, "t_test": 0.4654, "train_step_idx": 2999}
+{"accu_test": 0.3229, "best_accu_test": 0.3229, "component_test": "test", "loss_test": 1.9537, "t_test": 0.4701, "train_step_idx": 5999}
+{"accu_test": 0.3755, "best_accu_test": 0.3755, "component_test": "test", "loss_test": 1.7204, "t_test": 0.4653, "train_step_idx": 5999}
+{"accu_test": 0.374, "best_accu_test": 0.3755, "component_test": "test", "loss_test": 1.721, "t_test": 0.4695, "train_step_idx": 8999}
+{"accu_test": 0.3703, "best_accu_test": 0.3755, "component_test": "test", "loss_test": 1.6992, "t_test": 0.4673, "train_step_idx": 8999}
